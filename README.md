@@ -1,4 +1,4 @@
-# TrollInstallerX the fastest and most reliable TrollStore installer has released! - Full Guide
+# TrollInstallerX the Fastest and Most Reliable TrollStore Installer has Released! - Full Guide
 TrollInstallerX is a tool that helps you set up TrollStore easily. It's designed to work well and be simple to use. It's also really fast and can install TrollStore on new devices in just a few seconds.
 
 ![TrolllnstallerX](https://github.com/TrollInstallerX/Installing/assets/166096423/5e6fca84-da5c-4272-ae0a-0c3797ceb98e)
@@ -11,6 +11,7 @@ TrollInstallerX works on any device using iOS versions 14.0 to 16.6.1, including
 
 iOS 16.6.1, iOS 16.6, iOS 16.5.1, iOS 16.5, iOS 16.4.1, iOS 16.4, iOS 16.3.1, iOS 16.3, iOS 16.2, iOS 16.1.2, iOS 16.1.1, iOS 16.1, iOS 16.0.3, iOS 16.0.2, iOS 16.0.1, iOS 16
 iOS 15.8.2, iOS 15.8.1, iOS 15.8, iOS 15.7.9, iOS 15.7.8, iOS 15.7.7, iOS 15.7.6, iOS 15.7.5, iOS 15.7.4, iOS 15.7.3, iOS 15.7.2, iOS 15.7.1, iOS 15.7, iOS 15.6.1, iOS 15.6, iOS 15.5, iOS 15.4.1, iOS 15.4, iOS 15.3.1, iOS 15.3, iOS 15.2.1, iOS 15.2, iOS 15.1.1, iOS 15.1, iOS 15.0.2, iOS 15.0.1, iOS 15
+
 iOS 14.8.1, iOS 14.8, iOS 14.7.1, iOS 14.7, iOS 14.6, iOS 14.5, iOS 14.4.2, iOS 14.4.1, iOS 14.4, iOS 14.3, iOS 14.3, iOS 14.2.1, iOS 14.2, iOS 14.1, iOS 14.0.1, iOS 14
 
 ### Supported Device Models 📱
@@ -36,13 +37,35 @@ You can install TrollStore on your device in two different ways, depending on yo
 ### 1. Direct Installation
 
 ✅ iOS 15.2+ arm64e devices
+
 ❌ iOS 16.5.1, A15, A16, and M2
 
 TrollInstallerX directly installs TrollStore and its helper without leaving the installer.
 
+### Step Guide
+
+To install TrollInstallerX 👇
+
+1. Open the Sideloadly app on your computer.
+   
+2. Download the TrollInstallerX IPA file.
+
+3. Connect your iOS device to your computer with a USB cable.
+   
+4. Make sure your computer is trusted to access your device.
+   
+5. Drag and drop the TrollInstallerX .ipa file into Sideloadly.
+   
+6. Enter your Apple ID details, like your Apple ID and password.
+   
+7. If asked, let Sideloadly access its servers for free developer accounts. If not, use a different Apple ID.
+   
+8. TrollInstallerX will be installed on your iOS device.
+
 ### 2. Indirect Installation
 
 ✅ iOS 16.5.1 - 16.6.1 arm64e
+
 ✅ A15, A16 and M2
 
 TrollInstallerX replaces a system app with the TrollStore helper using the kfd kernel exploit. 
