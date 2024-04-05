@@ -65,6 +65,8 @@ To install TrollInstallerX 👇
 
 - [📥 Source code](https://cydia2.com/trollstore/#TrollInstallerX)
 
+- [📥 TrollInstallerX 1.0.0 iPA](https://cydia2.com/trollstore/#TrollInstallerX){:target="_blank"}
+
 4. Connect your iOS device to your computer with a USB cable.
    
 5. Make sure your computer is trusted to access your device.
