@@ -28,3 +28,23 @@ A11 - iPhone 8 & 8 Plus, iPhone X
 A10 - iPhone 7 & 7 Plus
 
 A9 - iPhone 6S & 6S Plus, iPhone SE (1st Gen)
+
+## How to install TrollInstallerX 
+
+You can install TrollStore on your device in two different ways, depending on your device and iOS version.
+
+### 1. Direct Installation
+
+✅ iOS 15.2+ arm64e devices
+❌ iOS 16.5.1, A15, A16, and M2
+
+TrollInstallerX directly installs TrollStore and its helper without leaving the installer.
+
+### 2. Indirect Installation
+
+✅ iOS 16.5.1 - 16.6.1 arm64e
+✅ A15, A16 and M2
+
+TrollInstallerX replaces a system app with the TrollStore helper using the kfd kernel exploit. 
+
+This method works on iOS 16.5.1 to 16.6.1 for arm64e devices.
