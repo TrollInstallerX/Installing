@@ -42,6 +42,16 @@ You can install TrollStore on your device in two different ways, depending on yo
 
 TrollInstallerX directly installs TrollStore and its helper without leaving the installer.
 
+### 2. Indirect Installation
+
+✅ iOS 16.5.1 - 16.6.1 arm64e
+
+✅ A15, A16 and M2
+
+TrollInstallerX replaces a system app with the TrollStore helper using the [kfd kernal exploit](https://cydia2.com/kfd-jailbreak/). 
+
+This method works on iOS 16.5.1 to 16.6.1 for arm64e devices.
+
 ### Step Guide
 
 To install TrollInstallerX 👇
@@ -50,9 +60,9 @@ To install TrollInstallerX 👇
    
 2. Download the TrollInstallerX IPA file.
 
-- [📥 TrollInstallerX 1.0.0 iPA](https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.0/TrollInstallerX.ipa)
+- [📥 TrollInstallerX 1.0.0 iPA](https://cydia2.com/trollstore/#TrollInstallerX)
 
-- [📥 Source code](https://github.com/alfiecg24/TrollInstallerX/archive/refs/tags/1.0.0.zip)
+- [📥 Source code](https://cydia2.com/trollstore/#TrollInstallerX)
 
 4. Connect your iOS device to your computer with a USB cable.
    
@@ -66,15 +76,41 @@ To install TrollInstallerX 👇
    
 9. TrollInstallerX will be installed on your iOS device.
 
-### 2. Indirect Installation
+## How To Get TrollApps from Cydia 2 Package Manager
 
-✅ iOS 16.5.1 - 16.6.1 arm64e
+![TrollApps 2 (1)](https://github.com/TrollInstallerX/Installing/assets/166096423/1090034a-b1ce-4d31-bab9-3ca131cba497)
 
-✅ A15, A16 and M2
+Cydia, once a discontinued package manager, now has Cydia 2, a new package manager for installing tweaks, themes, and jailbreak apps. It offers the best collection of TrollStore-based apps for you. After installing Cydia 2 without needing to jailbreak, you can unlock amazing troll apps for modifying your device.
 
-TrollInstallerX replaces a system app with the TrollStore helper using the [kfd kernal exploit](https://cydia2.com/kfd-jailbreak/). 
+### Step 1 - Install Cydia 2
 
-This method works on iOS 16.5.1 to 16.6.1 for arm64e devices.
+[📥 Install Cydia 2](https://github.com/alfiecg24/TrollInstallerX/archive/refs/tags/1.0.0.zip)
+
+### Step 2: Copy the TrollApps repo URL > Paste it to Cydia 2 "Add Source" section.
+
+TrollApps Repo URL 👇
+
+`https://repo.silzee.com/trollapp/`
+
+## Best TrollApps Collection
+
+TrollRecoder - Feature-rich call recorder.
+
+TrollColor - Icon pack for TrollStore
+
+Filza File Manager - Secure file managing options.
+
+Cowabunga - Beautiful Themes and tweaks
+
+App Manager - Backup and wipe apps.
+
+Cardio - Apple Pay card custumization tool.
+
+AirTroller - Airdrop spammer.
+
+Evyrest - Change home screen wallpapers automatically.
+
+Alphabetical - Home screen icon manager.
 
 ## FAQs - TrollInstallerX 
 
