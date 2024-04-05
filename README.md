@@ -1,4 +1,4 @@
-# TrollInstallerX the Fastest and Most Reliable TrollStore Installer has Released! - Full Guide
+# TrollInstallerX - The fastest and most reliable trollStore installer has released!
 TrollInstallerX is a tool that helps you set up TrollStore easily. It's designed to work well and be simple to use. It's also really fast and can install TrollStore on new devices in just a few seconds.
 
 ![TrolllnstallerX](https://github.com/TrollInstallerX/Installing/assets/166096423/5e6fca84-da5c-4272-ae0a-0c3797ceb98e)
@@ -46,21 +46,25 @@ TrollInstallerX directly installs TrollStore and its helper without leaving the 
 
 To install TrollInstallerX 👇
 
-1. Open the Sideloadly app on your computer.
+1. Open the [Sideloadly](https://sideloadly.io/) app on your computer.
    
 2. Download the TrollInstallerX IPA file.
 
-3. Connect your iOS device to your computer with a USB cable.
+- [📥 TrollInstallerX 1.0.0 iPA](https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.0/TrollInstallerX.ipa)
+
+- [📥 Source code](https://github.com/alfiecg24/TrollInstallerX/archive/refs/tags/1.0.0.zip)
+
+4. Connect your iOS device to your computer with a USB cable.
    
-4. Make sure your computer is trusted to access your device.
+5. Make sure your computer is trusted to access your device.
    
-5. Drag and drop the TrollInstallerX .ipa file into Sideloadly.
+6. Drag and drop the TrollInstallerX .ipa file into Sideloadly.
    
-6. Enter your Apple ID details, like your Apple ID and password.
+7. Enter your Apple ID details, like your Apple ID and password.
    
-7. If asked, let Sideloadly access its servers for free developer accounts. If not, use a different Apple ID.
+8. If asked, let Sideloadly access its servers for free developer accounts. If not, use a different Apple ID.
    
-8. TrollInstallerX will be installed on your iOS device.
+9. TrollInstallerX will be installed on your iOS device.
 
 ### 2. Indirect Installation
 
@@ -68,9 +72,35 @@ To install TrollInstallerX 👇
 
 ✅ A15, A16 and M2
 
-TrollInstallerX replaces a system app with the TrollStore helper using the kfd kernel exploit. 
+TrollInstallerX replaces a system app with the TrollStore helper using the [kfd kernal exploit](https://cydia2.com/kfd-jailbreak/). 
 
 This method works on iOS 16.5.1 to 16.6.1 for arm64e devices.
+
+## FAQs - TrollInstallerX 
+
+### 1. Why am I stuck at "Exploiting kernel"?
+   
+This can happen with the kfd exploit. Simply restart your device and try again.
+
+### 2. Why can't I open/see TrollStore after installation?
+   
+After installation, open your persistence helper and tap "refresh app registrations" to fix this issue.
+
+### 3. Why didn't the app I selected become the persistence helper?
+   
+If your selected app didn't change, you might already have a persistence helper installed. Check TrollStore settings for the current one.
+
+### 4. Why do I get an error about patchfinding?
+
+This might occur if you're offline or using certain device versions.
+
+### 5. Why does TrollInstallerX say "failed to install persistence helper" with the indirect method?
+   
+Sometimes, the indirect method fails. Restart your device and try again. If the issue persists, try another app.
+
+### 6. Why doesn't TrollInstallerX support iOS 17.0?
+
+There are no public exploits for iOS 17.0 yet. Once available, they'll be integrated into TrollInstallerX.
 
 ## Credits
 
