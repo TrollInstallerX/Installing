@@ -80,7 +80,7 @@ To install TrollInstallerX 👇
 
 ![TrollApps 2 (1)](https://github.com/TrollInstallerX/Installing/assets/166096423/1090034a-b1ce-4d31-bab9-3ca131cba497)
 
-Cydia, once a discontinued package manager, now has Cydia 2, a new package manager for installing tweaks, themes, and jailbreak apps. It offers the best collection of TrollStore-based apps for you. After installing Cydia 2 without needing to jailbreak, you can unlock amazing troll apps for modifying your device.
+Cydia, once a discontinued package manager, now has Cydia 2, a new package manager for installing [best repos](https://cydia2.com/best-cydia-repos/), [themes](https://cydia2.com/ios17-themes/), [tweaked apps](https://cydia2.com/tweaked-app-stores/), [tweaks](https://cydia2.com/categories-cydia-tweaks/) and [jailbreak apps](https://cydia2.com/cydia-17-4/#online-jbtools). Specially it offers the best collection of TrollStore-based apps for you. After installing Cydia 2 without needing to jailbreak, you can unlock amazing troll apps for modifying your device.
 
 ### Step 1 - Install Cydia 2
 
