@@ -14,3 +14,17 @@ iOS 15.8.2, iOS 15.8.1, iOS 15.8, iOS 15.7.9, iOS 15.7.8, iOS 15.7.7, iOS 15.7.6
 iOS 14.8.1, iOS 14.8, iOS 14.7.1, iOS 14.7, iOS 14.6, iOS 14.5, iOS 14.4.2, iOS 14.4.1, iOS 14.4, iOS 14.3, iOS 14.3, iOS 14.2.1, iOS 14.2, iOS 14.1, iOS 14.0.1, iOS 14
 
 ### Supported Device Models 📱
+
+A15 - iPhone 14 & 14 Plus, iPhone 13 & 13 Mini, iPhone 13 Pro & 13 Pro Max, iPhone SE (3rd Gen) iPad mini (6th Gen)
+
+A14 - iPad (10th Gen), iPad Air (4th Gen), iPhone 12 & 12 Mini, iPhone 12 Pro & 12 Pro Max
+
+A13 - iPhone 11, iPhone 11 Pro & 11 Pro Max, iPhone SE (2nd Gen), iPad (9th Gen)
+
+A12 - iPhone XS & XS Max, iPhone XR, iPad Mini (5th Gen), iPad Air (3rd Gen), iPad (8th Gen)
+
+A11 - iPhone 8 & 8 Plus, iPhone X
+
+A10 - iPhone 7 & 7 Plus
+
+A9 - iPhone 6S & 6S Plus, iPhone SE (1st Gen)
